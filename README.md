@@ -1,0 +1,1 @@
+# CURA_HealthCare_Service_Katalon_automation_Testing_SB_Github
